@@ -1,5 +1,7 @@
 <!-- @format -->
 
+[![LICENSE](https://github.com/rtiwariops/CodeHub/blob/main/LICENSE)
+
 # CodeHub 💻📚
 
 This is a monorepo designed to host all of the codes that have been created for demo and training purposes.
