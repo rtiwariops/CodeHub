@@ -1,6 +1,6 @@
 <!-- @format -->
 
-[![LICENSE](https://github.com/rtiwariops/CodeHub/blob/main/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/rtiwariops/CodeHub)](https://github.com/rtiwariops/CodeHub/blob/main/LICENSE)
 
 # CodeHub 💻📚
 
