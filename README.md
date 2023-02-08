@@ -7,3 +7,7 @@ This is a monorepo designed to host all of the codes that have been created for 
 ## Python Code
 
 [System-Monitoring](https://github.com/rtiwariops/CodeHub/tree/main/hostmon-python)
+
+## Go Code
+
+[SSL-Monitoring](https://github.com/rtiwariops/CodeHub/tree/main/sslmon-go)
