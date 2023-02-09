@@ -1,0 +1,29 @@
+{
+  "name": "json2yaml-node",
+  "version": "1.0.0",
+  "description": "JSON to YAML convertor via cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtiwariops/CodeHub.git#main"
+  },
+  "keywords": [
+    "json",
+    "yaml",
+    "node",
+    "convertor"
+  ],
+  "author": "rtiwariops",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtiwariops/CodeHub/issues"
+  },
+  "homepage": "https://github.com/rtiwariops/CodeHub/tree/main#readme",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "validator": "^13.9.0"
+  }
+}
