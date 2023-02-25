@@ -14,3 +14,7 @@ This is a monorepo designed to host all of the codes that have been created for 
 ## Go Code
 
 [SSL-Monitoring](https://github.com/rtiwariops/CodeHub/tree/main/sslmon-go)
+
+## Rust Code
+
+[TCP Server](https://github.com/rtiwariops/CodeHub/tree/main/tcp-server-rust)
