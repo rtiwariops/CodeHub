@@ -15,7 +15,8 @@ This is a monorepo designed to host all of the codes that have been created for 
 ## GoLang
 
 [SSL-Monitoring](https://github.com/rtiwariops/CodeHub/tree/main/sslmon-go)  
-[WebP-to-png-jpeg](https://github.com/rtiwariops/CodeHub/tree/main/utility/webp-to-png-jpeg-go)
+[WebP-to-png-jpeg](https://github.com/rtiwariops/CodeHub/tree/main/utility/webp-to-png-jpeg-go)  
+[Local-Network-Address](https://github.com/rtiwariops/CodeHub/tree/main/utility/local-network-address)
 
 ## Rust
 
