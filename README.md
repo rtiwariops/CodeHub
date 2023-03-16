@@ -8,8 +8,8 @@ This is a monorepo designed to host all of the codes that have been created for 
 
 ## Python
 
-[System-Monitoring](https://github.com/rtiwariops/CodeHub/tree/main/hostmon-python)  
-[Network-Sniffer-Scapy](https://github.com/rtiwariops/CodeHub/tree/main/netsniff-python)
+[System-Monitoring](https://github.com/rtiwariops/CodeHub/tree/main/hostmon-python)   
+[Network-Sniffer-Scapy](https://github.com/rtiwariops/CodeHub/tree/main/netsniff-python)  
 [NHANES-data-analysis](https://github.com/rtiwariops/CodeHub/tree/main/ML-AI-Examples/NHANES-data-analysis)
 
 ## GoLang
