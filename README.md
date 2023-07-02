@@ -12,6 +12,7 @@ This is a monorepo designed to host all of the codes that have been created for 
 [Network-Sniffer-Scapy](https://github.com/rtiwariops/CodeHub/tree/main/netsniff-python)  
 [NHANES-data-analysis](https://github.com/rtiwariops/CodeHub/tree/main/ML-AI-Examples/NHANES-data-analysis)  
 [HEDIS-Measures-AI](https://github.com/rtiwariops/CodeHub/tree/main/ML-AI-Examples/HEDIS-measures)
+[Live-Battery-Usage](https://github.com/rtiwariops/CodeHub/tree/main/live-battery-usage-python)
 
 ## GoLang
 
